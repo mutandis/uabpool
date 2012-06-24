@@ -8,7 +8,7 @@ API
 ---
 *Nothing yet*
 
-API
+Tech
 ---
 Built with PHP, Postgresql and PostGIS
 
