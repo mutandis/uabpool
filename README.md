@@ -1,5 +1,6 @@
 Uab Swimming Pool Service
 =========================
+*one projec at a time...*
 ### PHP REST Service for pool data
  
 REST service for swimming pool data management  
@@ -7,6 +8,10 @@ REST service for swimming pool data management
 API
 ---
 *Nothing yet*
+
+Demo
+----
+http://uabpool.elementfx.com/
 
 Tech
 ---
